@@ -1,8 +1,16 @@
 <h1>Hi there 👋 I am Andreas Jaramillo</h1>
-<p>I am skilled in Full Stack Web Development and Security. I have experience with with Flask, Docker, Django, React for Web Development
-  and Nmap, Kali, and Honeypot development for security. I also have experience with Agile frameworks such as Scrum
-🔭I am an alumni of the MLH Production Engineering Fellowship
-🌱I am currently a Computer Engineering Student at Johns Hopkins University
-In the future, I hope to become a engineer in a space related company
-</p>
+### RL Researcher
+
+Passionate computer scientist specializing in artificial intelligence and machine learning. Currently a B.S. student in Computer Science at Johns Hopkins University. 
+
+**Experience:**
+- Research Intern at Johns Hopkins Whiting School of Engineering, focusing on AI safety.
+- Software Development Engineer at Curve Assure, specializing in healthcare solutions.
+- Professional Development Chair at Society of Hispanic Professional Engineers, organizing workshops and expanding networks.
+
+**Skills:**
+- Languages: C, C++, Python
+- Technologies: React, TensorFlow
+- Tools: Linux, Git
+- Additional: NLTK
 
