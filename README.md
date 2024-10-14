@@ -47,7 +47,6 @@
 <h3>Skills:</h3>
 <ul>
   <li>Languages: C, C++, Python</li>
-  <li>Technologies: React, TensorFlow</li>
+  <li>Technologies: Godot, Unreal</li>
   <li>Tools: Linux, Git</li>
-  <li>Additional: NLTK</li>
 </ul>
