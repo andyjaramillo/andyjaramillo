@@ -1,5 +1,5 @@
 <h1>Hi there 👋 I am Andreas Jaramillo</h1>
-<h2>Game Developer</h2>
+<h2>Systems Engineer</h2>
 <p>Highly skilled computer scientist specializing in low level systems engineering. Currently pursuing a Bachelor of Science degree in Computer Science at Johns Hopkins University. Co-founder of Jara Bros Studios, where we are developing our first game, <br/> 
     <strong className="text-2xl mb-2" align="center">Taco and Bleu</strong> <br/>
     <img 
