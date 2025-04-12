@@ -1,17 +1,6 @@
 <h1>Hi there 👋 I am Andreas Jaramillo</h1>
 <h2>Systems Engineer</h2>
-<p>Highly skilled computer scientist specializing in low level systems engineering. Currently pursuing a Bachelor of Science degree in Computer Science at Johns Hopkins University. Co-founder of Jara Bros Studios, where we are developing our first game, <br/> 
-    <strong className="text-2xl mb-2" align="center">Taco and Bleu</strong> <br/>
-    <img 
-        alt="Taco and Bleu.svg" 
-        src="https://lh3.googleusercontent.com/d/1rduB-UjNG2eB45g-aq_pncx4QE2h3ZBO=w1000?authuser=0" 
-        decoding="async" 
-        width="100" 
-        height="60" 
-        data-file-width="2500" 
-        data-file-height="2500" 
-        className="mx-auto"
-    >
+<p>Highly skilled computer scientist specializing in low level systems engineering. Currently pursuing a Bachelor of Science degree in Computer Science at Johns Hopkins University.
 <br/> Proficient in low level languages including C, C++, and Rust. Interested in Flight Software Development. </p>
 
 <div class="banner">
